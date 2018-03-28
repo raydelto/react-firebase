@@ -5,4 +5,6 @@ Este repositorio contiene los credenciales de prueba que he creado para ustedes.
 
 La base de datos que estamos usando es la "Realtime Database" de Firebase.
 
+Usted debe prestar atencin al archivo src/App.js el cual es el que contiene el código relativo a Firebase.
+
 Cualquier duda, me pueden contactar al correo rperera@itla.edu.do
